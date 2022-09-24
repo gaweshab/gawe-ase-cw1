@@ -11,7 +11,7 @@
             <h1>Amazing Hotel in front of the Sea</h1>
           </div>
           <div class="intro_text">
-            <p>Spread across the length and breadth of our tropical island, our homes of Sri Lankan hospitality invite you to indulge in our signature brand of luxury, brought to life with the strength of our well-rooted family values. No matter where you may find yourself in Sri Lanka, our doors will always be open.</p>
+            <p>SonarQube test. Spread across the length and breadth of our tropical island, our homes of Sri Lankan hospitality invite you to indulge in our signature brand of luxury, brought to life with the strength of our well-rooted family values. No matter where you may find yourself in Sri Lanka, our doors will always be open.</p>
           </div>
           <!--  <div class="button intro_button"><a href="#">read more</a></div> -->
         </div>
